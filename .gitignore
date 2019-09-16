@@ -1,0 +1,12 @@
+coverage
+node_modules
+build
+.idea
+.DS_Store
+.furo
+packages/experiments
+__tmp
+deploy.sh
+ui_build
+ui_specs
+specs
